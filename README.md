@@ -44,12 +44,5 @@ src="https://img.shields.io/github/followers/Johan7560?logo=github&style=for-the
 
 <p align="left"> <a href="https://www.github.com/Johan7560" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/johan-swart-8575401a0/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
-### Badges
 
-<b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/Johan7560/SignUpAppV1" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Johan7560&repo=SignUpAppV1&title_color=a855f7&text_color=64748b&icon_color=84cc16&bg_color=171717&hide_border=true&locale=en" /></a><a href="https://github.com/Johan7560/PokeDexV2" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Johan7560&repo=PokeDexV2&title_color=a855f7&text_color=64748b&icon_color=84cc16&bg_color=171717&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<br /><br /><br /><br /><br />
-
-<div width="100%" align="center"><a href="https://github.com/Johan7560/Yu-Gi-Oh-Website" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Johan7560&repo=Yu-Gi-Oh-Website&title_color=a855f7&text_color=64748b&icon_color=84cc16&bg_color=171717&hide_border=true&locale=en" /></a><a href="https://github.com/Johan7560/1stWebDesign_ClientV1" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Johan7560&repo=1stWebDesign_ClientV1&title_color=a855f7&text_color=64748b&icon_color=84cc16&bg_color=171717&hide_border=true&locale=en" /></a></div>
