@@ -6,15 +6,17 @@ Aspiring Software Developer
 
 I learned to develop on my own. My experience thus far has come through reading, studying, troubleshooting, and comprehending what the code block is supposed to accomplish. Due to my work as a freelance web developer for businesses, I also have experience in that area. I learned a lot about design principles and methodologies through this, and I also learned that if I encountered a flaw or difficulty, I had to do some research to figure out what was wrong. I'm a highly motivated and experienced professional with a passion for problem solving and creative solutions. Also experienced in database design and development, and has a solid deep understanding of web technologies and is proficient in HTML, CSS, JavaScript. Team player who is always willing to go the extra mile to ensure that projects are completed on time and within budget. Great communicator. Avid learner and is constantly striving to stay up-to-date with the latest technologies and trends. Always looking for new challenges.
 
-* 🌍  I'm based in South Africa
-* 🖥️  See my portfolio at [Online Portfolio](http://my-portfolio-johan7560.vercel.app/)
-* ✉️  You can contact me at [swartjohannes13@gmail.com](mailto:swartjohannes13@gmail.com)
-* 🧠  I'm learning Vue3 and Motoko
-* ⚡  I'm Batman
+* 🌍  I'm based in South Africa
+* 🖥️  See my portfolio at [MyPortfolio](http://my-portfolio-johan7560.vercel.app/)
+* ✉️  You can contact me at [swartjohannes13@gmail.com](mailto:swartjohannes13@gmail.com)
+* 🧠  I'm learning Vue3 and Motoko
+* ⚡  I'm Batman
 
 <a href="https://www.github.com/Johan7560" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Johan7560?logo=github&style=for-the-badge&color=84cc16&labelColor=171717" /></a>
+
 ### Skills
+
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
@@ -34,20 +36,15 @@ src="https://img.shields.io/github/followers/Johan7560?logo=github&style=for-the
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="36" height="36" alt="Express" /></a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
-<a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
-<a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a>
-<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg" width="36" height="36" alt="Photoshop" /></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 <a href="https://web3js.readthedocs.io/en/v1.7.1/#" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/web3js-colored.svg" width="36" height="36" alt="Web3Js" /></a>
-<a href="https://hardhat.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/hardhat-colored.svg" width="36" height="36" alt="Hardhat" /></a>
 </p>
+
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/Johan7560" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a></p>
-### Badges
+<p align="left"> <a href="https://www.github.com/Johan7560" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/johan-swart-8575401a0/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
-<a href="https://github.com/Johan7560" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Johan7560&langs_count=10&title_color=a855f7&text_color=64748b&icon_color=84cc16&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+### Badges
 
 <b>Top Repositories</b>
 
