@@ -1,7 +1,7 @@
 Hi 👋 My name is Johan Swart
 ============================
 
-Aspiring Software Developer
+Web Developer
 ---------------------------
 
 I learned to develop on my own. My experience thus far has come through reading, studying, troubleshooting, and comprehending what the code block is supposed to accomplish. Due to my work as a freelance web developer for businesses, I also have experience in that area. I learned a lot about design principles and methodologies through this, and I also learned that if I encountered a flaw or difficulty, I had to do some research to figure out what was wrong. I'm a highly motivated and experienced professional with a passion for problem solving and creative solutions. Also experienced in database design and development, and has a solid deep understanding of web technologies and is proficient in HTML, CSS, JavaScript. Team player who is always willing to go the extra mile to ensure that projects are completed on time and within budget. Great communicator. Avid learner and is constantly striving to stay up-to-date with the latest technologies and trends. Always looking for new challenges.
@@ -9,7 +9,7 @@ I learned to develop on my own. My experience thus far has come through reading,
 * 🌍  I'm based in South Africa
 * 🖥️  See my portfolio at [MyPortfolio](http://my-portfolio-johan7560.vercel.app/)
 * ✉️  You can contact me at [swartjohannes13@gmail.com](mailto:swartjohannes13@gmail.com)
-* 🧠  I'm learning Vue3 and Motoko
+* 🧠  I'm learning Vue3 and Laravel
 * ⚡  I'm Batman
 
 <a href="https://www.github.com/Johan7560" target="_blank" rel="noreferrer"><img
