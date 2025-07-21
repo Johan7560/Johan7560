@@ -9,7 +9,7 @@ I learned to develop on my own. My experience thus far has come through reading,
 * 🌍  I'm based in South Africa
 * 🖥️  See my portfolio at [MyPortfolio](http://my-portfolio-johan7560.vercel.app/)
 * ✉️  You can contact me at [swartjohannes13@gmail.com](mailto:swartjohannes13@gmail.com)
-* 🧠  I'm learning Vue3 and Laravel
+* 🧠  I'm learning PHP - Filament
 * ⚡  I'm Batman
 
 <a href="https://www.github.com/Johan7560" target="_blank" rel="noreferrer"><img
